@@ -1,0 +1,1 @@
+Foi a hora de aprender a criar várias versões dos meus projetos com a ajuda de um sistema de controle de versão chamado _Git_, que permite criar inúmeras ramificações (cópias) do projeto e acessar cada uma delas sempre que precisar! Também comecei a me familiarizar com os termos _branch_, _commit_ e _merge_!

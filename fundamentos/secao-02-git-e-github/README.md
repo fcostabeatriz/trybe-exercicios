@@ -1,0 +1,1 @@
+Nesta seção aprendi a usar o _Git_ para guardar minhas informações de forma segura. Além disso, também entendi melhor o que é a Internet e como ela funciona.

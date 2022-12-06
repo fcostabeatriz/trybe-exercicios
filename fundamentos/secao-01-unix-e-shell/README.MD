@@ -1,0 +1,1 @@
+Aqui eu estudei um pouco sobre um famoso tipo de sistema operacional chamado _UNIX_. Coloquei a mão na massa e executei alguns comandos no terminal. 

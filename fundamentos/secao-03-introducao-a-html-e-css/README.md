@@ -1,0 +1,1 @@
+Nesta seção aprendi na prática como utilizar HTML para estruturar páginas web e estilizá-las com o CSS de forma prática.
