@@ -1,4 +1,4 @@
-Começei meu caminho aprendendo na aprender na prática como utilizar HTML para estruturar páginas web e estilizá-las com o CSS. 
+Começei meu caminho aprendendo na prática como utilizar HTML para estruturar páginas web e estilizá-las com o CSS. 
 Sendo  capaz de:
 - Explicar de forma simples como a internet funciona;
 - Entender o modelo Cliente & Servidor e identificar suas partes;
