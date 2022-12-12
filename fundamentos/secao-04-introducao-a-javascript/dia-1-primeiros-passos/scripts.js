@@ -12,3 +12,9 @@ console.log(birthYear);;
 
 birthCity = "Paris";
 console.log(birthCity);
+
+
+let var1 = "qualquer coisa e $imb0lo"; //string lateral
+let var2 = 15.6; //number lateral
+let var3 = true; //boolean
+let var4; //undefined
