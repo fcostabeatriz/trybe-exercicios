@@ -1,2 +1,6 @@
-const base = 5;
-const height = 8;
+
+//+, -, *, /, **
+
+let salary = 3500; 
+
+console.log(salary + salary);
